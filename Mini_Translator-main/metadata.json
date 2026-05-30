@@ -1,0 +1,6 @@
+{
+  "name": "MiniTranslator",
+  "description": "Next-generation contextual translator for idioms, slang, and cultural nuances across multiple languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
