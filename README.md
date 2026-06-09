@@ -1,10 +1,10 @@
-# 🌐 Mini Translator
+# 🌐 Mini Translator:
 
 A sleek, lightweight, and efficient translation utility designed for fast, accurate text translation and language detection. Built with a focus on simplicity and performance, this tool provides a seamless interface to translate text across multiple languages instantly.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:-
 
 - **Instant Translation:** Fast and accurate text translation across multiple global languages.
 - **Auto Language Detection:** Automatically identifies the source language so you don't have to guess.
@@ -14,7 +14,7 @@ A sleek, lightweight, and efficient translation utility designed for fast, accur
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:-
 
 - **Frontend:** HTML5, CSS3 (Modern/Minimalist styling), JavaScript (ES6+) / [e.g., React.js]
 - **Backend / API Wrapper:** [e.g., Python FastAPI / Node.js / Serverless Functions]
@@ -22,7 +22,7 @@ A sleek, lightweight, and efficient translation utility designed for fast, accur
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:-
 
 ```text
 Mini_Translator/
